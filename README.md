@@ -120,9 +120,19 @@ Engineered **12 numerical pedagogical features** from raw dialogue data:
 ```
 mathdial/
 ├── project.ipynb          # Main Jupyter notebook with full analysis
-├── pics/                  # Visualizations and figures
+├── MathDial_Project.pdf   # Complete project report with all images and conclusion
+├── pics/                  # Visualizations and figures (19 images)
 └── README.md             # This file
 ```
+
+## 📄 Project Report
+
+A comprehensive **PDF report** ([MathDial_Project.pdf](MathDial_Project.pdf)) is available that includes:
+- Complete project analysis with all code and outputs
+- All 19 visualization images embedded
+- Detailed conclusion covering key findings, contributions, and future work
+- Full methodology and results discussion
+- References and acknowledgments
 
 ## 🎓 Educational Impact
 
