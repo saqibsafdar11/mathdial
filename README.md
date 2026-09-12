@@ -160,3 +160,9 @@ This project is for educational and research purposes.
 ---
 
 *Part of AI/ML coursework exploring machine learning applications in educational technology.*
+
+## Module acknowledgement
+
+Completed for **Machine Learning** as part of my University of Leeds MSc Artificial Intelligence studies. Thank you to [Arash Rabbani](https://www.linkedin.com/in/arash-rabbani/) for the teaching and guidance.
+
+[Full portfolio](https://saqibsafdar.com/projects/) · [GitHub profile](https://github.com/saqibsafdar11)
